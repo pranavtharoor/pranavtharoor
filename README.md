@@ -23,3 +23,9 @@ I'm a software developer who's passionate about Web Development and Open Source.
 - 🌱 I’m currently learning about Big Data Technologies, Golang, GraphQL, etc.
 - 👯 I’m looking to collaborate on projects in Java, JavaScript, Golang etc.
 - 📫 Reach me at: pranav.tharoor@gmail.com, [LinkedIn](https://linkedin.com/in/pranavtharoor)
+
+<br/>
+
+![Check out a few of the projects I've worked on](https://github.com/pranavtharoor/pranavtharoor/blob/master/footer-text.svg?raw=true)
+
+![](https://github.com/pranavtharoor/pranavtharoor/blob/master/arrow.gif?raw=true)
