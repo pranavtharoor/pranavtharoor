@@ -26,6 +26,6 @@ I'm a software developer who's passionate about Web Development and Open Source.
 
 <br/>
 
-![Check out a few of the projects I've worked on](https://github.com/pranavtharoor/pranavtharoor/blob/master/footer-text.svg?raw=true)
+<!--![Check out a few of the projects I've worked on](https://github.com/pranavtharoor/pranavtharoor/blob/master/footer-text.svg?raw=true)-->
 
-![](https://github.com/pranavtharoor/pranavtharoor/blob/master/arrow.gif?raw=true)
+<!--![](https://github.com/pranavtharoor/pranavtharoor/blob/master/arrow.gif?raw=true)-->
