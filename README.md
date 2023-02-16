@@ -21,7 +21,7 @@ I enjoy working with technologies like React, Go, Java, etc. and I'm interested 
 
 - 🔭 I work as a Software Engineer at [Apple](https://www.apple.com/)
 - 👯 I’m looking to collaborate on projects in JavaScript, Go, Python etc.
-- 📫 Reach me at: pranav.tharoor@gmail.com or on [LinkedIn](https://linkedin.com/in/pranavtharoor)
+<!-- - 📫 Reach me at: pranav.tharoor@gmail.com or on [LinkedIn](https://linkedin.com/in/pranavtharoor) -->
 
 <br/>
 
