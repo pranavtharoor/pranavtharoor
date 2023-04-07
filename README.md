@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hi, there! I'm Pranav](https://github.com/pranavtharoor/pranavtharoor/blob/master/greeting.svg?raw=true)
+<!-- ![Hi, there! I'm Pranav](https://github.com/pranavtharoor/pranavtharoor/blob/master/greeting.svg?raw=true) -->
 
-I enjoy working with technologies like React, Go, Java, etc. and I'm interested in exploring new languages and frameworks.
+<!-- I enjoy working with technologies like React, Go, Java, etc. and I'm interested in exploring new languages and frameworks. -->
 
-- 🔭 I work as a Software Engineer at [Apple](https://www.apple.com/)
-- 👯 I’m looking to collaborate on projects in JavaScript, Go, Python etc.
-<!-- - 📫 Reach me at: pranav.tharoor@gmail.com or on [LinkedIn](https://linkedin.com/in/pranavtharoor) -->
+<!-- - 🔭 I work as a Software Engineer at [Apple](https://www.apple.com/) -->
+Hi
+- I’m looking to collaborate on projects in JavaScript and Go.
+- How to reach me: [LinkedIn](https://linkedin.com/in/pranavtharoor)
 
-<br/>
+<!-- <br/> -->
 
 <!--![Check out a few of the projects I've worked on](https://github.com/pranavtharoor/pranavtharoor/blob/master/footer-text.svg?raw=true)-->
 
